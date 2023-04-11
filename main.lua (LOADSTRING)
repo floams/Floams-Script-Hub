@@ -1,0 +1,1 @@
+loadstring(hame:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/raw.lua'))()
