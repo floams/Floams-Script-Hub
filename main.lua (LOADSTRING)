@@ -1,1 +1,10 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/NewMain.lua'))()
+for some reason my shitty ass script needs two things to actually fucking execute correctly lmfao
+
+
+
+Script 1: loadstring(game:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/raw.lua'))()
+after executing script 1, nothing will show up! this script is only here to fix most of the functions for the other script
+
+Script 2: loadstring(game:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/Main2.lua'))()
+this script loads the gui, without the first script, most buttons dont do anything.
+MY CODING ABILITIES ARE SHIT LOL
