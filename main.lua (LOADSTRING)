@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/test%20loadstring%20(DOESNT%20WORK)'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/floams/Floams-Script-Hub/main/NewMain.lua'))()
